@@ -1,8 +1,8 @@
 
 # Animated Koch Snowflake in Paper.js
 
-https://en.wikipedia.org/wiki/Koch_snowflake
-http://paperjs.org/tutorials/getting-started/working-with-paper-js/
+- https://en.wikipedia.org/wiki/Koch_snowflake
+- http://paperjs.org/tutorials/getting-started/working-with-paper-js/
 
 To run the animation:
 
